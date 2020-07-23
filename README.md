@@ -2,7 +2,6 @@
 
 💻 Web Developer Fullstack <br>
 🎓 Ingeniero en sistemas computacionales  <br>
-🏅 GDE in Web Technologies  <br>
 
    Instagram:  https://www.instagram.com/chazz_iv  <br>
      Twitter:  https://twitter.com/home  <br>
