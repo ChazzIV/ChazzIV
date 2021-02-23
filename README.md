@@ -1,6 +1,6 @@
 👋 Hola! Soy Marcelo Alberto Villalpando Martínez (@ChazzIV)
 
-💻 Web Developer Fullstack <br>
+💻 Web Developer Front-End <br>
 🎓 Ingeniero en sistemas computacionales  <br>
 
    Instagram:  https://www.instagram.com/chazz_iv  <br>
